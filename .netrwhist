@@ -1,7 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/tony/git/anypy/anypy/cdbk/country'
 let g:netrw_dirhist_2='/Users/tony/git/anypy/anypy/cdbk/provider'
 let g:netrw_dirhist_3='/Users/tony/git/anypy/anypy/cdbk'
 let g:netrw_dirhist_4='/Users/tony/git/anypy/anypy/cdbk/country'
 let g:netrw_dirhist_5='/Users/tony/git/anypy/anypy/cdbk'
+let g:netrw_dirhist_6='/Users/tony/git/sofa/templates/partials'
+let g:netrw_dirhist_7='/Users/tony/git/anypy/anypy/cdbk/tour'

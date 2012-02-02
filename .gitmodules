@@ -73,3 +73,6 @@
 [submodule "bundle/varnish"]
 	path = bundle/varnish
 	url = https://github.com/empanda/vim-varnish.git
+[submodule "bundle/zencoding-vim"]
+	path = bundle/zencoding-vim
+	url = https://github.com/mattn/zencoding-vim.git
