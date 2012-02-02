@@ -3,6 +3,11 @@ syntax	on									" syntax highlighting
 filetype plugin on 					" try to detect the filetype
 filetype plugin indent on 	" enable loading indent file for filetype 
 
+" Hide osx toolbar
+if has("gui_running")
+    set guioptions=egmrt
+endif
+
 " PATHOGEN
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
